@@ -1,0 +1,17 @@
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\QL_QuanCafe\DTO\bin\Debug\DTO.dll
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\QL_QuanCafe\DTO\bin\Debug\DTO.pdb
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\QL_QuanCafe\DTO\obj\Debug\DTO.dll
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\QL_QuanCafe\DTO\obj\Debug\DTO.pdb
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\QL_QuanCafe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\Nhom10\QL_QuanCafe\DTO\bin\Debug\DTO.dll
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\Nhom10\QL_QuanCafe\DTO\bin\Debug\DTO.pdb
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.dll
+D:\Cong_Nghe.net\Bao_Cao_Cuoi_Ki\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.pdb
+D:\Project_complete\Nhom10\QL_QuanCafe\DTO\bin\Debug\DTO.dll
+D:\Project_complete\Nhom10\QL_QuanCafe\DTO\bin\Debug\DTO.pdb
+D:\Project_complete\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Project_complete\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Project_complete\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.dll
+D:\Project_complete\Nhom10\QL_QuanCafe\DTO\obj\Debug\DTO.pdb
