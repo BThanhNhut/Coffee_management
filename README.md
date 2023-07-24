@@ -6,3 +6,4 @@ Trang chủ
 ![ql2](https://github.com/BThanhNhut/Coffee_management/assets/92388024/c159a80d-da56-4b28-8ebd-998911ae9c78)
 ![ql3](https://github.com/BThanhNhut/Coffee_management/assets/92388024/0204c441-47cf-437e-b269-7df531569bd5)
 ![ql4](https://github.com/BThanhNhut/Coffee_management/assets/92388024/7a6670ef-6dab-4eb6-ac86-8e9c14341d42)
+![HoaDon](https://github.com/BThanhNhut/Coffee_management/assets/92388024/acecf9f8-56fc-4315-8320-9d16ae6ebd91)
